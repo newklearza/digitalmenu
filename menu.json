@@ -1,0 +1,205 @@
+{
+  "categories": [
+    {
+      "name": "Starters",
+      "items": [
+        {
+          "name": "Spring Rolls",
+          "description": "Crispy vegetable spring rolls served with sweet chili sauce",
+          "price": 35.0,
+          "options": [
+            { "name": "Extra Sauce", "price": 5 },
+            { "name": "Add Chicken", "price": 15 }
+          ]
+        },
+        {
+          "name": "Garlic Bread",
+          "description": "Toasted baguette with garlic butter and herbs",
+          "price": 25.0,
+          "options": [
+            { "name": "Add Cheese", "price": 10 }
+          ]
+        },
+        {
+          "name": "Stuffed Mushrooms",
+          "description": "Mushrooms filled with cheese and herbs",
+          "price": 40.0,
+          "options": [
+            { "name": "Add Bacon", "price": 15 }
+          ]
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Spicy grilled chicken wings with dipping sauce",
+          "price": 45.0,
+          "options": [
+            { "name": "BBQ", "price": 0 },
+            { "name": "Peri Peri", "price": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Main Meals",
+      "items": [
+        {
+          "name": "Grilled Chicken",
+          "description": "Juicy grilled chicken breast served with vegetables",
+          "price": 85.0,
+          "options": [
+            { "name": "Add Sauce", "price": 10 },
+            { "name": "Extra Veggies", "price": 15 }
+          ]
+        },
+        {
+          "name": "Beef Steak",
+          "description": "Tender beef steak cooked to your liking",
+          "price": 120.0,
+          "options": [
+            { "name": "Medium Rare", "price": 0 },
+            { "name": "Well Done", "price": 0 },
+            { "name": "Add Mushrooms", "price": 20 }
+          ]
+        },
+        {
+          "name": "Vegetable Pasta",
+          "description": "Pasta tossed with fresh vegetables and tomato sauce",
+          "price": 65.0,
+          "options": [
+            { "name": "Add Cheese", "price": 10 },
+            { "name": "Add Chicken", "price": 20 }
+          ]
+        },
+        {
+          "name": "Fish and Chips",
+          "description": "Golden fried fish served with fries and tartar sauce",
+          "price": 90.0,
+          "options": [
+            { "name": "Extra Sauce", "price": 5 },
+            { "name": "Add Lemon", "price": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        {
+          "name": "Chips",
+          "description": "Crispy golden fries",
+          "price": 25.0,
+          "options": [
+            { "name": "Large", "price": 7 },
+            { "name": "Add Cheese", "price": 5 }
+          ]
+        },
+        {
+          "name": "Biltong",
+          "description": "Seasoned Biltong Sticks",
+          "price": 50.0,
+          "options": [
+            { "name": "BBQ", "price": 12 },
+            { "name": "Peri Peri", "price": 8 },
+            { "name": "Giulia Flavour", "price": 50 }
+          ]
+        },
+        {
+          "name": "Samosas",
+          "description": "Spiced beef or vegetable samosas",
+          "price": 30.0,
+          "options": [
+            { "name": "Beef", "price": 5 },
+            { "name": "Vegetable", "price": 0 }
+          ]
+        },
+        {
+          "name": "Onion Rings",
+          "description": "Crispy battered onion rings",
+          "price": 28.0,
+          "options": [
+            { "name": "Add Dip", "price": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        {
+          "name": "Cola",
+          "description": "Chilled soft drink",
+          "price": 20.0,
+          "options": [
+            { "name": "Large", "price": 5 },
+            { "name": "No Ice", "price": 0 },
+            { "name": "Lemon Slice", "price": 3 }
+          ]
+        },
+        {
+          "name": "Iced Tea",
+          "description": "Peach flavored iced tea",
+          "price": 22.0,
+          "options": [
+            { "name": "Large", "price": 4 },
+            { "name": "Extra Ice", "price": 1 }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "description": "Freshly brewed coffee",
+          "price": 18.0,
+          "options": [
+            { "name": "Add Milk", "price": 3 },
+            { "name": "Add Sugar", "price": 0 }
+          ]
+        },
+        {
+          "name": "Orange Juice",
+          "description": "Freshly squeezed orange juice",
+          "price": 25.0,
+          "options": [
+            { "name": "Large", "price": 5 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "items": [
+        {
+          "name": "Chocolate Cake",
+          "description": "Rich and moist chocolate cake slice",
+          "price": 40.0,
+          "options": [
+            { "name": "Add Ice Cream", "price": 15 }
+          ]
+        },
+        {
+          "name": "Cheesecake",
+          "description": "Classic creamy cheesecake",
+          "price": 45.0,
+          "options": [
+            { "name": "Add Berry Sauce", "price": 10 }
+          ]
+        },
+        {
+          "name": "Ice Cream Sundae",
+          "description": "Vanilla ice cream with chocolate syrup and nuts",
+          "price": 35.0,
+          "options": [
+            { "name": "Add Whipped Cream", "price": 5 },
+            { "name": "Add Cherries", "price": 5 }
+          ]
+        },
+        {
+          "name": "Fruit Salad",
+          "description": "Fresh seasonal fruits",
+          "price": 30.0,
+          "options": [
+            { "name": "Add Honey", "price": 5 }
+          ]
+        }
+      ]
+    }
+  ]
+}
