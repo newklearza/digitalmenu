@@ -1,0 +1,106 @@
+{
+  "categories": [
+    {
+      "name": "Disposable Vapes",
+      "items": [
+        {
+          "name": "Elf Bar 600",
+          "description": "600 puff disposable vape. Various flavours available.",
+          "price": 120,
+          "options": [
+            {"name": "Watermelon", "price": 0},
+            {"name": "Blueberry", "price": 0},
+            {"name": "Peach Ice", "price": 0}
+          ]
+        },
+        {
+          "name": "Vozol Bar 1000",
+          "description": "1000 puff disposable vape. Smooth throat hit.",
+          "price": 150,
+          "options": [
+            {"name": "Lychee Ice", "price": 0},
+            {"name": "Grape Ice", "price": 0},
+            {"name": "Mango Peach", "price": 0}
+          ]
+        },
+        {
+          "name": "Geek Bar 1500",
+          "description": "1500 puff pre-filled disposable vape.",
+          "price": 180,
+          "options": [
+            {"name": "Banana Ice", "price": 0},
+            {"name": "Strawberry", "price": 0},
+            {"name": "Cool Mint", "price": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Refillable Vape Devices",
+      "items": [
+        {
+          "name": "Caliburn A2 Kit",
+          "description": "Refillable pod system. Compact and powerful.",
+          "price": 550,
+          "options": [
+            {"name": "Blue", "price": 0},
+            {"name": "Grey", "price": 0},
+            {"name": "Green", "price": 0}
+          ]
+        },
+        {
+          "name": "Vaporesso XROS 3",
+          "description": "Mesh coil device with adjustable airflow.",
+          "price": 600,
+          "options": [
+            {"name": "Black", "price": 0},
+            {"name": "Rose Pink", "price": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "E-Liquids",
+      "items": [
+        {
+          "name": "Nasty Juice 30ml",
+          "description": "Premium e-liquid range. 30ml bottles.",
+          "price": 100,
+          "options": [
+            {"name": "Slow Blow", "price": 0},
+            {"name": "ASAP Grape", "price": 0},
+            {"name": "Bad Blood", "price": 0}
+          ]
+        },
+        {
+          "name": "Saltnic 30ml",
+          "description": "High-nicotine e-liquid for pod systems.",
+          "price": 110,
+          "options": [
+            {"name": "Mint Ice", "price": 0},
+            {"name": "Berry Mix", "price": 0}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "items": [
+        {
+          "name": "USB Type-C Charger",
+          "description": "Compatible with most modern vape devices.",
+          "price": 60
+        },
+        {
+          "name": "Replacement Pods (Pack of 2)",
+          "description": "Available for Caliburn and XROS systems.",
+          "price": 120,
+          "options": [
+            {"name": "Caliburn", "price": 0},
+            {"name": "XROS", "price": 0}
+          ]
+        }
+      ]
+    }
+  ]
+}

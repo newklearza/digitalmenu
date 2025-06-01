@@ -42,6 +42,13 @@ def giulia():
     # Use the same loaded menu_data here too
     return render_template("giulia.html", menu=menu_data)
 
+@app.route("/vapes")
+def vapes():
+    with open('vapes_menu.json', 'r', encoding='utf-8') as f:
+        vape_menu = json.load(f)
+    return render_template("vapes.html", menu=vape_menu)
+
+
 
 if __name__ == '__main__':
     # Optional: print all registered routes for debug
